@@ -2,7 +2,7 @@
 quickcode::clean(clearPkgs = TRUE)
 
 # LOAD NEW PACKAGES AND PRINT VERSIONS
-libraryAll(shiny,ggplot2,dplyr,DT, magrittr,tidyr,plyr)
+libraryAll(shiny,TidyDensity,ggplot2,dplyr,DT, magrittr,tidyr,plyr)
 
 # APP BODY
 # Define UI
