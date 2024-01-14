@@ -1,4 +1,4 @@
-![](./www/ab3682be-3207-41a8-b946-5426d169158c.jpg)
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s101_yBXyxS30nbowM7peeJKUfGNaQj3KjDfbqIAKr9IL_logo_41.jpg)
 
 
 
